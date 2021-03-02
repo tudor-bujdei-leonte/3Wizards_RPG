@@ -1,0 +1,122 @@
+ANIMATION FOLDERS --- OUTDATED
+
+Fallen_Angels
+    Dying
+    Falling Down
+    Hurt
+    Idle
+    Idle Blinking
+    Jump Loop
+    Jump Start
+    Kicking
+    Run Slashing
+    Run Throwing
+    Running
+    Slashing
+    Slashing in The Air
+    Sliding
+    Throwing
+    Throwing in The Air
+    Walking
+Golem_1
+    Dying
+    Falling Down
+    Hurt
+    Idle
+    Idle Blinking
+    Jump Loop
+    Jump Start
+    Kicking
+    Run Slashing
+    Run Throwing
+    Running
+    Slashing
+    Slashing in The Air
+    Sliding
+    Throwing
+    Throwing in The Air
+    Walking
+Golem_2
+    Attacking
+    Dying
+    Hurt
+    Idle
+    Idle Blink
+    Jump Loop
+    Jump Start
+    Taunt
+    Walking
+Minotaur
+    Attacking
+    Dying
+    Hurt
+    Idle
+    Idle Blink
+    Jump Loop
+    Jump Start
+    Taunt
+    Walking
+Ogre
+    Dying
+    Falling Down
+    Hurt
+    Idle
+    Idle Blinking
+    Jump Loop
+    Jump Start
+    Kicking
+    Run Slashing
+    Run Throwing
+    Running
+    Slashing
+    Slashing in The Air
+    Sliding
+    Throwing
+    Throwing in The Air
+    Walking
+Reaper_Man
+    Dying
+    Falling Down
+    Hurt
+    Idle
+    Idle Blinking
+    Jump Loop
+    Jump Start
+    Kicking
+    Run Slashing
+    Run Throwing
+    Running
+    Slashing
+    Slashing in The Air
+    Sliding
+    Throwing
+    Throwing in The Air
+    Walking
+Satyr
+    Attacking
+    Dying
+    Hurt
+    Idle
+    Idle Blink
+    Jump Loop
+    Jump Start
+    Taunt
+    Walking
+Wraith
+    Attacking
+    Casting Spells
+    Dying
+    Hurt
+    Idle
+    Idle Blink
+    Taunt
+    Walking
+
+
+
+COMMON ANIMATIONS:
+Dying
+Hurt
+Idle
+Jump Start
+Walking

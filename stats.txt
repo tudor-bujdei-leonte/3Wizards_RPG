@@ -1,0 +1,11 @@
+name|attack|defence|hp
+magic|100|20|300
+ice|200|10|200
+fire|450|5|150
+Fallen_Angels|400|5|100
+Golem|150|15|200
+Minotaur|300|10|150
+Ogre|300|5|150
+Reaper_Man|400|10|80
+Satyr|300|10|100
+Wraith|500|1|70

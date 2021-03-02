@@ -1,0 +1,9 @@
+money|978
+scale_factor|4.299816959999999
+queue|ally_0|enemy_1|ally_2
+ally|magic|100.0
+ally|ice|100.0
+ally|fire|100.0
+enemy|Wraith|100.0
+enemy|Golem|100.0
+enemy|Minotaur|100.0
