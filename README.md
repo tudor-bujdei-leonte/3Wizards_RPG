@@ -1,4 +1,3 @@
----   COURSEWORK 02   ---
 ---     3-WIZARDS     ---
 
 --- Table of contents ---
@@ -13,7 +12,7 @@
 
 --- Controls ---
 
-Run main.py to start the game. Requires Python 3.
+Run main.py to start the game. Requires Python 3.0 or newer.
 c - cheats (only during gameplay)
 b - boss key (in the whole app)
 Escape - pause
@@ -53,6 +52,8 @@ Attack break - Decreases attack by 50%
 Freeze - Cannot attack for one turn
 Heal block - Cannot receive heals for one turn
 
+Effects stack, except for defence break.
+
 
 --- Issues ---
 
@@ -62,6 +63,7 @@ When upwards of 2GB ram is used, the game will crash due to insufficient tkinter
 --- Legal notice ---
 
 Created by Tudor Bujdei-Leonte, 2020
+
 Image copyright:
 Sprites - craftpix.net
 Buttons and menus - opengameart.org
