@@ -1,5 +1,7 @@
 ---     3-WIZARDS     ---
 
+A single-player RPG with three player classes and over 20 enemy types.
+
 --- Table of contents ---
 
 1. Controls
